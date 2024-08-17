@@ -3,13 +3,10 @@
     --yellow: #FFDAA2;
     --pink: #FFD9C8;
     --light-blue: #F1FAFF;
-
-
     --bold-font: 700;
     --semibold-font: 600;
     --medium-font: 500;
     --normal-font: 400;
-
     --margin-botoom: 100px;
 }
 
@@ -110,7 +107,6 @@ li,
     font-weight: var(--semibold-font);
     padding: 10px;
     color: #000;
-
 }
 
 .download {
@@ -503,7 +499,6 @@ a {
     text-decoration: none;
     color: #000;
 }
-
 
 /* tablet responsive */
 @media (max-width: 1200px) {
